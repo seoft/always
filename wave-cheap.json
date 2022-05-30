@@ -1,5 +1,5 @@
 {
   "version" : null,
-  "message" : null,
-  "run": true
+  "message" : "서버 점검중입니다. 빠른 처리 하겠습니다.",
+  "run": false
 }
