@@ -1,5 +1,5 @@
 {
   "version" : null,
   "message" : "서버점검 중 입니다 빠른 복구 진행하겠습니다. 감사합니다.",
-  "run": false
+  "run": true
 }
