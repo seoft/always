@@ -1,5 +1,5 @@
 {
   "version" : null,
-  "message" : "12시 까지 서버점검 예정되어있습니다. 감사합니다.",
-  "run": false
+  "message" : "",
+  "run": true
 }
