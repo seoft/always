@@ -1,5 +1,5 @@
 {
   "version" : null,
   "message" : "Server maintenance is scheduled for 3 hours.",
-  "run": false
+  "run": true
 }
